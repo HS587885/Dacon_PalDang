@@ -1,5 +1,7 @@
 # Dacon Project
-![Uploading 스크린샷 2024-02-21 오후 3.56.41.png…]()
+![스크린샷 2024-02-21 오후 3 56 41](https://github.com/HS587885/Dacon_PalDang/assets/48133382/79dde648-c0fa-44c6-aabc-ab0531bff61c)
+
+
 
 
 ## [배경]
